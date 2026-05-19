@@ -106,7 +106,10 @@ npm install
 npm start
 
 
-Explantion Video:
+Demo Video:
+
+https://drive.google.com/file/d/19DXF9UtnRJ7hHFZB4TAZn9nHrTXgDHKA/view?usp=sharing
+
 
 
 ### 1. Clone Repository
